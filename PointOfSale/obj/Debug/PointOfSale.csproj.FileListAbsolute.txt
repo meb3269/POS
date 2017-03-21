@@ -28,8 +28,6 @@ C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\bin\Debug\Keypad.pdb
 C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\bin\Debug\PosLibraryCode.pdb
 C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\obj\Debug\PointOfSale.csprojResolveAssemblyReference.cache
 C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\obj\Debug\PointOfSale.AppWindow.resources
-C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\obj\Debug\PointOfSale.CashOut.resources
-C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\obj\Debug\PointOfSale.Menu.resources
 C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\obj\Debug\PointOfSale.Properties.Resources.resources
 C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\obj\Debug\PointOfSale.UserControls.NavMenu.resources
 C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.Cache

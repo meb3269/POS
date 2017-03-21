@@ -41,11 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FoodMenu.cs">
+    <Compile Include="MenuControl.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="FoodMenu.Designer.cs">
-      <DependentUpon>FoodMenu.cs</DependentUpon>
+    <Compile Include="MenuControl.Designer.cs">
+      <DependentUpon>MenuControl.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -56,8 +56,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="FoodMenu.resx">
-      <DependentUpon>FoodMenu.cs</DependentUpon>
+    <EmbeddedResource Include="MenuControl.resx">
+      <DependentUpon>MenuControl.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

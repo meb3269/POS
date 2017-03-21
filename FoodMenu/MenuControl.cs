@@ -1,19 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Drawing;
-using System.Data;
-using System.Linq;
-using System.Text;
 using System.Windows.Forms;
 using PosLibrary;
 using PosLibraryCode;
 
 namespace FoodMenu
 {
-	public partial class FoodMenu : UserControl
+	public partial class MenuControl : UserControl
 	{
-		public FoodMenu()
+		public MenuControl()
 		{
 			InitializeComponent();
 		}

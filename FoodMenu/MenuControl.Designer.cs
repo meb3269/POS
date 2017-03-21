@@ -1,6 +1,6 @@
 ﻿namespace FoodMenu
 {
-	partial class FoodMenu
+	partial class MenuControl
 	{
 		/// <summary> 
 		/// Required designer variable.

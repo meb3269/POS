@@ -1,13 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Drawing;
-using System.Data;
-using System.Linq;
-using System.Text;
 using System.Windows.Forms;
-using Keypad;
 using FoodMenu;
+using Keypad;
 
 namespace PointOfSale.UserControls
 {
@@ -25,7 +20,7 @@ namespace PointOfSale.UserControls
 			var x = 20;
 			var y = 30;
 
-			FoodMenu.FoodMenu menu = new FoodMenu.FoodMenu();
+			MenuControl menu = new MenuControl();
 			menu.Location = new Point(x, y);
 
 			//this.ParentForm.Controls.Add(menu);
