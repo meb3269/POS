@@ -47,6 +47,12 @@
     <Compile Include="MenuControl.Designer.cs">
       <DependentUpon>MenuControl.cs</DependentUpon>
     </Compile>
+    <Compile Include="MenuItemEntry.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MenuItemEntry.Designer.cs">
+      <DependentUpon>MenuItemEntry.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -58,6 +64,9 @@
   <ItemGroup>
     <EmbeddedResource Include="MenuControl.resx">
       <DependentUpon>MenuControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuItemEntry.resx">
+      <DependentUpon>MenuItemEntry.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

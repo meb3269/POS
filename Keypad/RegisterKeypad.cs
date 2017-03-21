@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Windows.Forms;
 
 namespace Keypad
 {
@@ -138,8 +139,11 @@ namespace Keypad
 		{
 			//this.BackspaceButton?.Invoke(this, null);
 			string display = GetDisplayValue();
-
-			SetDisplayValue(display.Substring(0, display.Length - 1));
+			//ToDo: backspace has a bug
+			if (display.Length > 0)
+			{
+				SetDisplayValue(display.Substring(0, display.Length - 1));
+			}
 		}
 
 		private void btnPlus_Click(object sender, EventArgs e)
