@@ -1,0 +1,9 @@
+C:\MikeB\Projects\PointOfSale\Keypad\bin\Debug\Keypad.dll
+C:\MikeB\Projects\PointOfSale\Keypad\bin\Debug\Keypad.pdb
+C:\MikeB\Projects\PointOfSale\Keypad\bin\Debug\PosLibraryCode.dll
+C:\MikeB\Projects\PointOfSale\Keypad\bin\Debug\PosLibraryCode.pdb
+C:\MikeB\Projects\PointOfSale\Keypad\obj\Debug\Keypad.csprojResolveAssemblyReference.cache
+C:\MikeB\Projects\PointOfSale\Keypad\obj\Debug\Keypad.RegisterKeypad.resources
+C:\MikeB\Projects\PointOfSale\Keypad\obj\Debug\Keypad.csproj.GenerateResource.Cache
+C:\MikeB\Projects\PointOfSale\Keypad\obj\Debug\Keypad.dll
+C:\MikeB\Projects\PointOfSale\Keypad\obj\Debug\Keypad.pdb

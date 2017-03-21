@@ -1,0 +1,7 @@
+C:\MikeB\Projects\PointOfSale\FoodMenu\bin\Debug\FoodMenu.dll
+C:\MikeB\Projects\PointOfSale\FoodMenu\bin\Debug\FoodMenu.pdb
+C:\MikeB\Projects\PointOfSale\FoodMenu\bin\Debug\PosLibraryCode.dll
+C:\MikeB\Projects\PointOfSale\FoodMenu\bin\Debug\PosLibraryCode.pdb
+C:\MikeB\Projects\PointOfSale\FoodMenu\obj\Debug\FoodMenu.csprojResolveAssemblyReference.cache
+C:\MikeB\Projects\PointOfSale\FoodMenu\obj\Debug\FoodMenu.dll
+C:\MikeB\Projects\PointOfSale\FoodMenu\obj\Debug\FoodMenu.pdb
