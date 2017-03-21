@@ -58,6 +58,7 @@
 			this.btnNext.Text = "NEXT";
 			this.btnNext.UseMnemonic = false;
 			this.btnNext.UseVisualStyleBackColor = true;
+			this.btnNext.Click += new System.EventHandler(this.btnNext_Click);
 			// 
 			// btnClear
 			// 
@@ -68,6 +69,7 @@
 			this.btnClear.TabIndex = 7;
 			this.btnClear.Text = "CLEAR";
 			this.btnClear.UseVisualStyleBackColor = true;
+			this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
 			// 
 			// lbPlate
 			// 
@@ -125,7 +127,7 @@
 			this.tabDessert.Text = "Dessert";
 			this.tabDessert.UseVisualStyleBackColor = true;
 			// 
-			// FoodMenu
+			// MenuControl
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -134,8 +136,9 @@
 			this.Controls.Add(this.btnClear);
 			this.Controls.Add(this.lbPlate);
 			this.Controls.Add(this.tabMenu);
-			this.Name = "FoodMenu";
+			this.Name = "MenuControl";
 			this.Size = new System.Drawing.Size(900, 700);
+			this.Load += new System.EventHandler(this.MenuControl_Load);
 			this.tabMenu.ResumeLayout(false);
 			this.ResumeLayout(false);
 

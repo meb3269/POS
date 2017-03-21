@@ -15,28 +15,30 @@ namespace PointOfSale.UserControls
 
 		private void menuToolStripMenuItem_Click(object sender, EventArgs e)
 		{
-			//this.ParentForm.Controls.Clear();
-
-			var x = 20;
-			var y = 30;
+			NavMenu nav = new NavMenu();
+			nav.Location = new Point(0,0);
 
 			MenuControl menu = new MenuControl();
-			menu.Location = new Point(x, y);
+			menu.Location = new Point(20, 30);
 
-			//this.ParentForm.Controls.Add(menu);
+			Form baseForm = this.FindForm();
+			baseForm.Controls.Clear();
+			baseForm.Controls.Add(nav);
+			baseForm.Controls.Add(menu);
 		}
 
 		private void cashOutToolStripMenuItem_Click(object sender, EventArgs e)
 		{
-			//this.ParentForm.Controls.Clear();
-
-			var x = 20;
-			var y = 100;
+			NavMenu nav = new NavMenu();
+			nav.Location = new Point(0, 0);
 
 			RegisterKeypad registerKeypad = new RegisterKeypad();
-			registerKeypad.Location = new Point(x, y);
+			registerKeypad.Location = new Point(20, 100);
 
-			//this.ParentForm.Controls.Add(registerKeypad);
+			Form baseForm = this.FindForm();
+			baseForm.Controls.Clear();
+			baseForm.Controls.Add(nav);
+			baseForm.Controls.Add(registerKeypad);
 		}
 	}
 }

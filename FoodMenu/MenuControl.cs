@@ -18,7 +18,7 @@ namespace FoodMenu
 
 		//ToDo: Add tabs for drinks, appetizers and sides?
 
-		private void FoodMenu_Load(object sender, EventArgs e)
+		private void MenuControl_Load(object sender, EventArgs e)
 		{
 			//Once DB is setup, pull the values from there using the Menu object
 			ButtonFactory(MenuFactoryBreakfast());
@@ -139,6 +139,7 @@ namespace FoodMenu
 
 		private void btnClear_Click(object sender, EventArgs e)
 		{
+			//If selected item == blank then pop a message
 			lbPlate.Items.Remove(lbPlate.SelectedItem);
 		}
 
@@ -163,7 +164,6 @@ namespace FoodMenu
 
 			//Clear items from lbPlate
 			lbPlate.Items.Clear();
-
 		}
 	}
 }
