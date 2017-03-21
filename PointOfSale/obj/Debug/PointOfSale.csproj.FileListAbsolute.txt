@@ -19,9 +19,11 @@ C:\MikeB\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb
 C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\bin\Debug\PointOfSale.exe
 C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\bin\Debug\PointOfSale.pdb
 C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\bin\Debug\Display.dll
+C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\bin\Debug\FoodMenu.dll
 C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\bin\Debug\Keypad.dll
 C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\bin\Debug\PosLibraryCode.dll
 C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\bin\Debug\Display.pdb
+C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\bin\Debug\FoodMenu.pdb
 C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\bin\Debug\Keypad.pdb
 C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\bin\Debug\PosLibraryCode.pdb
 C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\obj\Debug\PointOfSale.csprojResolveAssemblyReference.cache
@@ -33,5 +35,3 @@ C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\obj\Debug\PointOfSale.UserC
 C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.Cache
 C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\obj\Debug\PointOfSale.exe
 C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\obj\Debug\PointOfSale.pdb
-C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\bin\Debug\FoodMenu.dll
-C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\bin\Debug\FoodMenu.pdb

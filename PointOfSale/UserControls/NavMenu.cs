@@ -6,6 +6,8 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using Keypad;
+using FoodMenu;
 
 namespace PointOfSale.UserControls
 {
@@ -18,20 +20,28 @@ namespace PointOfSale.UserControls
 
 		private void menuToolStripMenuItem_Click(object sender, EventArgs e)
 		{
-			//Hide();
+			//this.ParentForm.Controls.Clear();
 
-			Menu menu = new Menu();
-			//menu.MdiParent = this.ParentForm;
-			menu.StartPosition = FormStartPosition.CenterParent;
-			menu.Show();
+			var x = 20;
+			var y = 30;
+
+			FoodMenu.FoodMenu menu = new FoodMenu.FoodMenu();
+			menu.Location = new Point(x, y);
+
+			//this.ParentForm.Controls.Add(menu);
 		}
 
 		private void cashOutToolStripMenuItem_Click(object sender, EventArgs e)
 		{
-			//this.Hide();
+			//this.ParentForm.Controls.Clear();
 
-			CashOut cashOut = new CashOut();
-			cashOut.Show();
+			var x = 20;
+			var y = 100;
+
+			RegisterKeypad registerKeypad = new RegisterKeypad();
+			registerKeypad.Location = new Point(x, y);
+
+			//this.ParentForm.Controls.Add(registerKeypad);
 		}
 	}
 }

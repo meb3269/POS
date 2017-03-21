@@ -10,7 +10,7 @@ C:\Users\meblack\Source\Repos\POSapp\POS\FoodMenu\bin\Debug\FoodMenu.pdb
 C:\Users\meblack\Source\Repos\POSapp\POS\FoodMenu\bin\Debug\PosLibraryCode.dll
 C:\Users\meblack\Source\Repos\POSapp\POS\FoodMenu\bin\Debug\PosLibraryCode.pdb
 C:\Users\meblack\Source\Repos\POSapp\POS\FoodMenu\obj\Debug\FoodMenu.csprojResolveAssemblyReference.cache
-C:\Users\meblack\Source\Repos\POSapp\POS\FoodMenu\obj\Debug\FoodMenu.dll
-C:\Users\meblack\Source\Repos\POSapp\POS\FoodMenu\obj\Debug\FoodMenu.pdb
 C:\Users\meblack\Source\Repos\POSapp\POS\FoodMenu\obj\Debug\FoodMenu.FoodMenu.resources
 C:\Users\meblack\Source\Repos\POSapp\POS\FoodMenu\obj\Debug\FoodMenu.csproj.GenerateResource.Cache
+C:\Users\meblack\Source\Repos\POSapp\POS\FoodMenu\obj\Debug\FoodMenu.dll
+C:\Users\meblack\Source\Repos\POSapp\POS\FoodMenu\obj\Debug\FoodMenu.pdb
