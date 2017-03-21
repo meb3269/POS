@@ -2,3 +2,7 @@ C:\MikeB\Projects\PointOfSale\PosLibraryCode\bin\Debug\PosLibraryCode.dll
 C:\MikeB\Projects\PointOfSale\PosLibraryCode\bin\Debug\PosLibraryCode.pdb
 C:\MikeB\Projects\PointOfSale\PosLibraryCode\obj\Debug\PosLibraryCode.dll
 C:\MikeB\Projects\PointOfSale\PosLibraryCode\obj\Debug\PosLibraryCode.pdb
+C:\Users\meblack\Source\Repos\POSapp\POS\PosLibraryCode\bin\Debug\PosLibraryCode.dll
+C:\Users\meblack\Source\Repos\POSapp\POS\PosLibraryCode\bin\Debug\PosLibraryCode.pdb
+C:\Users\meblack\Source\Repos\POSapp\POS\PosLibraryCode\obj\Debug\PosLibraryCode.dll
+C:\Users\meblack\Source\Repos\POSapp\POS\PosLibraryCode\obj\Debug\PosLibraryCode.pdb

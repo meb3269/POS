@@ -69,7 +69,6 @@
 			this.Controls.Add(this.label1);
 			this.Name = "AppWindow";
 			this.Text = "Point of Sale";
-			this.IsMdiContainer = true;
 			this.ResumeLayout(false);
 			this.PerformLayout();
 

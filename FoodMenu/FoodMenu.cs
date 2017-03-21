@@ -1,6 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Drawing;
+using System.Data;
+using System.Linq;
+using System.Text;
 using System.Windows.Forms;
 using PosLibrary;
 using PosLibraryCode;
@@ -13,7 +17,6 @@ namespace FoodMenu
 		{
 			InitializeComponent();
 		}
-
 
 		public Order order;
 
@@ -151,7 +154,7 @@ namespace FoodMenu
 			{
 				FoodMenuItem foodItem = new FoodMenuItem();
 				foodItem.ItemName = item.ToString();
-				
+
 				plate.PlateOrder.Add(foodItem);
 				plate.PlateNumber = item.GetHashCode().ToString();
 			}

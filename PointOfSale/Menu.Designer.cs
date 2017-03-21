@@ -28,13 +28,22 @@
 		/// </summary>
 		private void InitializeComponent()
 		{
+			this.foodMenu1 = new FoodMenu.FoodMenu();
 			this.SuspendLayout();
+			// 
+			// foodMenu1
+			// 
+			this.foodMenu1.Location = new System.Drawing.Point(8, 6);
+			this.foodMenu1.Name = "foodMenu1";
+			this.foodMenu1.Size = new System.Drawing.Size(900, 700);
+			this.foodMenu1.TabIndex = 0;
 			// 
 			// Menu
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(884, 662);
+			this.ClientSize = new System.Drawing.Size(964, 712);
+			this.Controls.Add(this.foodMenu1);
 			this.Name = "Menu";
 			this.Text = "Menu";
 			this.ResumeLayout(false);
@@ -42,5 +51,7 @@
 		}
 
 		#endregion
+
+		private FoodMenu.FoodMenu foodMenu1;
 	}
 }

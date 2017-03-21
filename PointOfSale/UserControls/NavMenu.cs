@@ -21,7 +21,7 @@ namespace PointOfSale.UserControls
 			//Hide();
 
 			Menu menu = new Menu();
-			menu.MdiParent = this.ParentForm;
+			//menu.MdiParent = this.ParentForm;
 			menu.StartPosition = FormStartPosition.CenterParent;
 			menu.Show();
 		}

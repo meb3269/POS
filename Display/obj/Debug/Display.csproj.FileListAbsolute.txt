@@ -9,3 +9,14 @@ C:\MikeB\Projects\PointOfSale\Display\obj\Debug\Display.RegisterDisplay.resource
 C:\MikeB\Projects\PointOfSale\Display\obj\Debug\Display.csproj.GenerateResource.Cache
 C:\MikeB\Projects\PointOfSale\Display\obj\Debug\Display.dll
 C:\MikeB\Projects\PointOfSale\Display\obj\Debug\Display.pdb
+C:\Users\meblack\Source\Repos\POSapp\POS\Display\bin\Debug\Display.dll
+C:\Users\meblack\Source\Repos\POSapp\POS\Display\bin\Debug\Display.pdb
+C:\Users\meblack\Source\Repos\POSapp\POS\Display\bin\Debug\Keypad.dll
+C:\Users\meblack\Source\Repos\POSapp\POS\Display\bin\Debug\PosLibraryCode.dll
+C:\Users\meblack\Source\Repos\POSapp\POS\Display\bin\Debug\Keypad.pdb
+C:\Users\meblack\Source\Repos\POSapp\POS\Display\bin\Debug\PosLibraryCode.pdb
+C:\Users\meblack\Source\Repos\POSapp\POS\Display\obj\Debug\Display.csprojResolveAssemblyReference.cache
+C:\Users\meblack\Source\Repos\POSapp\POS\Display\obj\Debug\Display.RegisterDisplay.resources
+C:\Users\meblack\Source\Repos\POSapp\POS\Display\obj\Debug\Display.csproj.GenerateResource.Cache
+C:\Users\meblack\Source\Repos\POSapp\POS\Display\obj\Debug\Display.dll
+C:\Users\meblack\Source\Repos\POSapp\POS\Display\obj\Debug\Display.pdb

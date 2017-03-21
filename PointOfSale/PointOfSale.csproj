@@ -55,12 +55,6 @@
     <Compile Include="CashOut.Designer.cs">
       <DependentUpon>CashOut.cs</DependentUpon>
     </Compile>
-    <Compile Include="FoodMenu.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="FoodMenu.Designer.cs">
-      <DependentUpon>FoodMenu.cs</DependentUpon>
-    </Compile>
     <Compile Include="Menu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -80,9 +74,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="CashOut.resx">
       <DependentUpon>CashOut.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FoodMenu.resx">
-      <DependentUpon>FoodMenu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>
@@ -113,6 +104,10 @@
     <ProjectReference Include="..\Display\Display.csproj">
       <Project>{2CE8A1B9-31EF-4D45-86CD-4A4F7CBEF387}</Project>
       <Name>Display</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FoodMenu\FoodMenu.csproj">
+      <Project>{665B1FAF-4A93-4675-ADDA-4F1D5D9DEA97}</Project>
+      <Name>FoodMenu</Name>
     </ProjectReference>
     <ProjectReference Include="..\Keypad\Keypad.csproj">
       <Project>{492C2ECA-98E5-4078-AFD8-F64FD9A9DDA8}</Project>
