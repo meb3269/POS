@@ -29,6 +29,7 @@ C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\bin\Debug\PosLibraryCode.pd
 C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\obj\Debug\PointOfSale.csprojResolveAssemblyReference.cache
 C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\obj\Debug\PointOfSale.AppWindow.resources
 C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\obj\Debug\PointOfSale.Properties.Resources.resources
+C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\obj\Debug\PointOfSale.UserControls.GenericLogin.resources
 C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\obj\Debug\PointOfSale.UserControls.NavMenu.resources
 C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.Cache
 C:\Users\meblack\Source\Repos\POSapp\POS\PointOfSale\obj\Debug\PointOfSale.exe

@@ -1,6 +1,0 @@
-C:\Users\meblack\Source\Repos\POSapp\POS\Login\bin\Debug\Login.dll
-C:\Users\meblack\Source\Repos\POSapp\POS\Login\bin\Debug\Login.pdb
-C:\Users\meblack\Source\Repos\POSapp\POS\Login\obj\Debug\Login.GenericLogin.resources
-C:\Users\meblack\Source\Repos\POSapp\POS\Login\obj\Debug\Login.csproj.GenerateResource.Cache
-C:\Users\meblack\Source\Repos\POSapp\POS\Login\obj\Debug\Login.dll
-C:\Users\meblack\Source\Repos\POSapp\POS\Login\obj\Debug\Login.pdb
