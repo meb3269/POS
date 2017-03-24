@@ -14,3 +14,4 @@ C:\Users\meblack\Source\Repos\POSapp\POS\FoodMenu\obj\Debug\FoodMenu.MenuControl
 C:\Users\meblack\Source\Repos\POSapp\POS\FoodMenu\obj\Debug\FoodMenu.csproj.GenerateResource.Cache
 C:\Users\meblack\Source\Repos\POSapp\POS\FoodMenu\obj\Debug\FoodMenu.dll
 C:\Users\meblack\Source\Repos\POSapp\POS\FoodMenu\obj\Debug\FoodMenu.pdb
+C:\Users\meblack\Source\Repos\POSapp\POS\FoodMenu\obj\Debug\FoodMenu.MenuItemEntry.resources

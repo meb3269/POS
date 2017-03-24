@@ -95,6 +95,10 @@
       <Project>{492C2ECA-98E5-4078-AFD8-F64FD9A9DDA8}</Project>
       <Name>Keypad</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Login\Login.csproj">
+      <Project>{A71A9027-9B69-41B3-A432-8409189C3AB4}</Project>
+      <Name>Login</Name>
+    </ProjectReference>
     <ProjectReference Include="..\PosLibraryCode\PosLibrary.csproj">
       <Project>{78863E00-8331-4623-BCE5-1B8AB3AFB9CF}</Project>
       <Name>PosLibrary</Name>

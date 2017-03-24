@@ -30,14 +30,14 @@
 		{
 			this.label1 = new System.Windows.Forms.Label();
 			this.lblCompany = new System.Windows.Forms.Label();
-			this.navMenu1 = new PointOfSale.UserControls.NavMenu();
+			this.genericLogin1 = new Login.GenericLogin();
 			this.SuspendLayout();
 			// 
 			// label1
 			// 
 			this.label1.AutoSize = true;
 			this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.label1.Location = new System.Drawing.Point(297, 242);
+			this.label1.Location = new System.Drawing.Point(297, 77);
 			this.label1.Name = "label1";
 			this.label1.Size = new System.Drawing.Size(390, 37);
 			this.label1.TabIndex = 1;
@@ -46,25 +46,25 @@
 			// lblCompany
 			// 
 			this.lblCompany.AutoSize = true;
-			this.lblCompany.Location = new System.Drawing.Point(431, 359);
+			this.lblCompany.Location = new System.Drawing.Point(407, 140);
 			this.lblCompany.Name = "lblCompany";
 			this.lblCompany.Size = new System.Drawing.Size(143, 13);
 			this.lblCompany.TabIndex = 2;
 			this.lblCompany.Text = "Customer Name or logo Here";
 			// 
-			// navMenu1
+			// genericLogin1
 			// 
-			this.navMenu1.Location = new System.Drawing.Point(6, 6);
-			this.navMenu1.Name = "navMenu1";
-			this.navMenu1.Size = new System.Drawing.Size(900, 50);
-			this.navMenu1.TabIndex = 3;
+			this.genericLogin1.Location = new System.Drawing.Point(209, 175);
+			this.genericLogin1.Name = "genericLogin1";
+			this.genericLogin1.Size = new System.Drawing.Size(546, 469);
+			this.genericLogin1.TabIndex = 3;
 			// 
 			// AppWindow
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(984, 762);
-			this.Controls.Add(this.navMenu1);
+			this.Controls.Add(this.genericLogin1);
 			this.Controls.Add(this.lblCompany);
 			this.Controls.Add(this.label1);
 			this.Name = "AppWindow";
@@ -77,6 +77,6 @@
 		#endregion
 		private System.Windows.Forms.Label label1;
 		private System.Windows.Forms.Label lblCompany;
-		private UserControls.NavMenu navMenu1;
+		private Login.GenericLogin genericLogin1;
 	}
 }
